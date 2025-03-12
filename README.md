@@ -1,4 +1,4 @@
-# Hand-Written-Digit-Classifier-Using-Pytorch-CNN
+# Hand-Written-Digit-Classifier-Using-Pytorch (CNN)
 Overview:
 
 This project implements a Convolutional Neural Network (CNN) using PyTorch to classify handwritten digits from the MNIST dataset. The model is trained to recognize digits (0-9) with high accuracy and can predict handwritten numbers.
